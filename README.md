@@ -1,3 +1,9 @@
+# Cumulative Assessment: React and APIs with Hooks
+
+*This repo is my solution for the Qualified assessment for 5.5.4.*
+
+*Complete a web application that loads an array of users and displays each one's album list when their name is selected via button. Add new components as necessary for full functionality. Include light styling. Fetch requests for users and albums arrays should be controlled using useEffect() with a cleanup function using an AbortController to cancel unneeded calls and cleanup stale UI as users are changed.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
